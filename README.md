@@ -7,7 +7,7 @@
 
 <details>
 <summary>Question 1</summary>
-WAP to print following pattern. User will enter number of rows. If user enter row = 7 then <code>output</code> is given. <a href = "src/HalfTrianglePatternProblem.php">[Solution]</a>
+WAP to print following pattern. User will enter number of rows. If user enter row = 7 then <code>output</code> is given. <a href = "https://github.com/komalpatel300902/PHP-Practice-Problems/blob/master/src/HalfTrianglePatternProblem.php">[Solution]</a>
 <pre>
 1
 22
